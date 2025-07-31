@@ -4,7 +4,8 @@ Project name: Layout_dia_landing_page.
   
 Project type: Web page / Landing Page
 
-Detailed description: This is a simple landing page project designed to present information about a product, service or event. The purpose of the landing page is to attract the visitor's attention and encourage them to take a specific target action (for example, fill out a form, click the "Learn more" button, download something).
+Detailed description: 
+This is a simple landing page project designed to present information about a product, service or event. The purpose of the landing page is to attract the visitor's attention and encourage them to take a specific target action (for example, fill out a form, click the "Learn more" button, download something).
 
 Technologies used:
 HTML5 (HyperText Markup Language 5): Used to structure the page content, define headings, paragraphs, images, links and other elements.
@@ -21,11 +22,6 @@ cd layout_dia_landing_page
 Open the index.html file: Once you have downloaded or cloned the project files, find the main index.html file in the root folder of the project. Just open this file in any modern web browser (Chrome, Firefox, Edge, etc.). The browser will automatically display the page.
 Using a local web server (recommended for development): For a more complete development experience (especially if there are problems with file paths or JavaScript), it is recommended to use a simple local web server.
 
-For Python: If you have Python installed, go to the project folder in the command line and run:
-Bash
-python -m http.server
-Then open http://localhost:8000 (or another port that will be specified) in the browser.
-For Node.js: If you have Node.js installed, you can install the serve package:
 Bash
 npm install -g serve
 Then in the project folder, run:
