@@ -1,10 +1,33 @@
-Название проекта: Layout_dia_landing_page
+Project name: Layout_dia_landing_page.
 
-ДЕМО-ССЫЛКА Тип проекта: Веб-страница / Лендинг
-Подробное описание: Это простой проект лендинга, предназначенный для представления информации о продукте, услуге или мероприятии. Цель лендинга — привлечь внимание посетителя и побудить его к определённому целевому действию (например, заполнить форму, нажать кнопку «Подробнее», скачать что-либо).
+- [DEMO LINK](https://DyvakOlexandr.github.io/layout_dia_landing_page/)
+Project type: Web page / Landing Page
 
-Использованные технологии: HTML5 (язык гипертекстовой разметки 5): используется для структурирования содержимого страницы, определения заголовков, абзацев, изображений, ссылок и других элементов. CSS3 (каскадные таблицы стилей 3): используется для стилизации страницы, определения её внешнего вида, такого как цвета, шрифты, отступы, расположение элементов и адаптивность к различным устройствам. Вероятно, использует современные возможности CSS для создания интерактивности и анимации. JavaScript (JS): может использоваться для добавления интерактивности, динамического поведения элементов, проверки форм, создания анимации и других клиентских функций.
+Detailed description: This is a simple landing page project designed to present information about a product, service or event. The purpose of the landing page is to attract the visitor's attention and encourage them to take a specific target action (for example, fill out a form, click the "Learn more" button, download something).
 
-Запустите проект локально: Если вы хотите запустить этот проект на своем компьютере для просмотра или внесения изменений, вам необходимо выполнить следующие шаги: Клонируйте репозиторий (если он публичный и у вас есть ссылка): Если этот проект находится в публичном репозитории GitHub (например, github.com/DyvakOlexandr/layout_dia_landing_page), вы можете клонировать его с помощью Git: Bash git clone https://github.com/DyvakOlexandr/layout_dia_landing_page.git cd layout_dia_landing_page (Замените URL, если он отличается) Откройте файл index.html: После того, как вы загрузили или клонировали файлы проекта, найдите основной файл index.html в корневой папке проекта. Просто откройте этот файл в любом современном веб-браузере (Chrome, Firefox, Edge и т. д.). Браузер автоматически отобразит страницу. Использование локального веб-сервера (рекомендуется для разработки): для более полного опыта разработки (особенно если есть проблемы с путями к файлам или JavaScript) рекомендуется использовать простой локальный веб-сервер.
+Technologies used:
+HTML5 (HyperText Markup Language 5): Used to structure the page content, define headings, paragraphs, images, links and other elements.
+CSS3 (Cascading Style Sheets 3): Used to style the page, determine its appearance, such as colors, fonts, indents, element placement, adaptability for different devices. Probably uses modern CSS capabilities to create interactivity and animation.
+JavaScript (JS): Can be used to add interactivity, dynamic behavior of elements, validate forms, create animations, or other client-side functionality.
 
-Для Python: Если у вас установлен Python, перейдите в папку проекта в командной строке и выполните: Bash python -m http.server Затем откройте в браузере порт http://localhost:8000 (или другой указанный порт). Для Node.js: Если у вас установлен Node.js, вы можете установить пакет serve: Bash npm install -g serve Затем в папке проекта выполните: Bash serve И откройте адрес, который будет указан в браузере (обычно http://localhost:8080 ).
+Run the project locally:
+If you want to run this project on your computer to view it or make changes, you need to follow these steps:
+Clone the repository (if it is public and you have the link): If this project is in a public GitHub repository (for example, github.com/DyvakOlexandr/layout_dia_landing_page), you can clone it using Git:
+Bash
+git clone https://github.com/DyvakOlexandr/layout_dia_landing_page.git
+cd layout_dia_landing_page
+(Replace the URL if it is different)
+Open the index.html file: Once you have downloaded or cloned the project files, find the main index.html file in the root folder of the project. Just open this file in any modern web browser (Chrome, Firefox, Edge, etc.). The browser will automatically display the page.
+Using a local web server (recommended for development): For a more complete development experience (especially if there are problems with file paths or JavaScript), it is recommended to use a simple local web server.
+
+For Python: If you have Python installed, go to the project folder in the command line and run:
+Bash
+python -m http.server
+Then open http://localhost:8000 (or another port that will be specified) in the browser.
+For Node.js: If you have Node.js installed, you can install the serve package:
+Bash
+npm install -g serve
+Then in the project folder, run:
+Bash
+serve
+And open the address that will be specified in the browser (usually http://localhost:8080).
