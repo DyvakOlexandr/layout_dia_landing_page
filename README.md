@@ -1,6 +1,7 @@
 Project name: Layout_dia_landing_page.
 
 - [DEMO LINK](https://DyvakOlexandr.github.io/layout_dia_landing_page/)
+- 
 Project type: Web page / Landing Page
 
 Detailed description: This is a simple landing page project designed to present information about a product, service or event. The purpose of the landing page is to attract the visitor's attention and encourage them to take a specific target action (for example, fill out a form, click the "Learn more" button, download something).
